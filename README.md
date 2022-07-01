@@ -1,5 +1,5 @@
 ## <p align="center">Olá! Aqui é o Cleberson ✌️</p>
-- 🎓 Estou cursando Desenvolvimento Web Java e Oracle ONE
+- 🎓 Estou cursando Desenvolvimento Web Java e o Oracle ONE
 - 🚀 "10% é talento e o resto é esforço"
 - 🌃 Terra da garoa 🌃
 - 🤓 18 yrs
@@ -18,12 +18,11 @@
   <img align="justify" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
- ![Snake animation](https://github.com/ClebersonHenrique555/ClebersonHenrique555/blob/output/github-contribution-grid-snake.svg)
  
  <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
 
  
-<div align="justify" display="inline-block">
+<div align="center" display="inline-block">
  <a href="https://www.instagram.com/cleberson_henrique555/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/-cleberson-henrique-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:clebersonhenrique69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank
