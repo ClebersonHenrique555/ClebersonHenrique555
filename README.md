@@ -1,9 +1,8 @@
 ## <p align="center">Olá! Aqui é o Cleberson ✌️</p>
 - 🎓 Estou cursando Desenvolvimento Web Java e o Oracle ONE
 - 🚀 "10% é talento e o resto é esforço"
-- 🌃 Terra da garoa 🌃
 - 🤓 18 yrs
-- 🎮 Nas horas vagas gosto de jogar 
+- 🎮 Nas horas vagas gosto de jogar e praticar esportes
 
 
 
@@ -21,7 +20,8 @@
  
  <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
 
- 
+ <br/>
+ <br/>
 <div align="center" display="inline-block">
  <a href="https://www.instagram.com/cleberson_henrique555/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/-cleberson-henrique-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
