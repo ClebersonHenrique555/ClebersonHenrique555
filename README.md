@@ -1,6 +1,5 @@
 ## <p align="center">Olá! Aqui é o Cleberson ✌️</p>
 - 🎓 Estou cursando Desenvolvimento Web Java e o Oracle ONE
-- 🚀 "10% é talento e o resto é esforço"
 - 🤓 18 yrs
 - 🎮 Nas horas vagas gosto de jogar e praticar esportes
 
