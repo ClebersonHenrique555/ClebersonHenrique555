@@ -18,9 +18,6 @@
  
 </div>
 
- 
- <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
-
  <br/>
  <br/>
 <div align="center" display="inline-block">
